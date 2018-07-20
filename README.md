@@ -1,4 +1,4 @@
-# kotlin-microservice
+# kotlin-microservice [![Build Status](https://travis-ci.org/willp-bl/kotlin-microservice.svg?branch=master)](https://travis-ci.org/willp-bl/kotlin-microservice)
 
 to compile/package: `mvn clean package`
 
